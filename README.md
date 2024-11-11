@@ -1,4 +1,4 @@
 # exploration
-This is my first Gity 
+This is my first Git Repository
 <br>
 Author - Mayukh Rudra(KIIT)
